@@ -1,0 +1,10 @@
+PHISHGUARD AI - DATA PREPARATION REPORT
+Original rows: 11055
+Exact unique rows: 5849
+Conflicting feature combinations: 64
+Prepared rows: 5721
+
+Prepared target distribution:
+result
+-1    2955
+ 1    2766
